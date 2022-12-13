@@ -25,6 +25,6 @@ export default function Footer() {
             </a>
         </div>
 
-        // Cambios solo para probar el Git
+        // Cambios solo para probar el Git la misma mondá, parte dos
     )
 }
