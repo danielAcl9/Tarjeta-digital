@@ -24,5 +24,7 @@ export default function Footer() {
                 <img className="IIIMg" src={gitIcon} />
             </a>
         </div>
+
+        // Cambios solo para probar el Git
     )
 }
