@@ -14,7 +14,7 @@ export default function Info() {
             
             <h2 className="info--name">Daniel Amado</h2>
             <h3 className="info--title">Frontend Developer</h3>
-            <h4 className="info--website">naddniel.com</h4>
+            <h4 className="info--website">github.com/danielAcl9</h4>
 
             <div className="info--botones">
 
